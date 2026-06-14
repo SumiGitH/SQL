@@ -11,3 +11,16 @@ CREATE TABLE Persons (
     Address varchar(255),
     City varchar(255)
 );
+
+
+SQL COMMANDS
+
+DDL
+
+DML
+
+TCL
+
+DQL
+
+DCL
