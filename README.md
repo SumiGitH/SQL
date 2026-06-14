@@ -15,7 +15,12 @@ CREATE TABLE Persons (
 
 SQL COMMANDS
 
-DDL
+DDL : data definition language. consists of defining, altering and deleting database. it includes Create, Drop, Alter, Truncate, Comment and Rename.
+Example: CREATE TABLE Employees (
+employee_id INT PRIMARY KEY,
+first_name VARCHAR(50),
+LAST_NAME 
+
 
 DML
 
