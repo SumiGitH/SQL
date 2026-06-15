@@ -51,3 +51,4 @@ DCL: GRANT, REVOKE: DATA CONTROL LANGUAGE
 Mainly delas with the rights, permissions, and other controls of the database system.
 GRANT SELECT, UPDATE ON employeesn TO User_name;
 
+DATA CONSTRAINTS: Use NOT NULL, UNIQUE, PRIMARY KEY and etc to ensure data accuracy.
