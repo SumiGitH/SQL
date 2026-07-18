@@ -98,3 +98,5 @@ FirstName VARCHAR (50),
 LastName CHAR(30),
 Bio Nvarchar(max)
 );
+
+<img width="800" height="999" alt="image" src="https://github.com/user-attachments/assets/4f88dba4-f82b-4851-b7de-b34aae17498b" />
