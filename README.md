@@ -2,6 +2,7 @@
 
 SQL is a standard language for storing, manipulating and retrieving data in databases.
 
+https://datalemur.com/sql-tutorial
 
 What Can SQL do?
 SQL can execute queries against a database
