@@ -343,3 +343,24 @@ datetime: date and time combination, format is YYYY-MM-DD
 Primary Key: A primary key is a unique column we set in a table to easily idetify and locate data in queries. A table can have only one primary key, which should be unique and NOT NULL
 
 Foreign Key: A Foreign key is column used to link two or more tables together. A table can have any number of foreign keys, can contain duplicate and NULL values.
+
+
+CONSTRAINTS
+Constraints are used to specify rules for data in a table. This ensures the accuracy and relaibility of the data in the table. Constraints can be specified when the table is created with the CREATE TABLE statement or, after the table is created with ALTER TABLE statement.
+Snytax,
+CREATE TABLE table_name (
+column1 datatype constraint,
+column2 datatype constraint,
+column3 datatype constraint,
+...
+)
+
+Commonly used constraints
+1. NOT NULL
+2. UNIQUE
+3. PRIMARY KEY
+4. FOREIGN KEY
+5. CHECK: Ensures that the values in a column satisfies a specific condition
+6. DEFAULT: Sets a deafult value for a column if no value is specified
+7. CREATE INDEX: Used to create and retrieve data from the database very quickly
+   
