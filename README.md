@@ -338,3 +338,8 @@ char: fixed length string that can contain numbers, letters, and special charact
 varchar: variable length string that can caontain numbers, letters and special characters
 date: date format YYYY-MM-DD
 datetime: date and time combination, format is YYYY-MM-DD
+
+
+Primary Key: A primary key is a unique column we set in a table to easily idetify and locate data in queries. A table can have only one primary key, which should be unique and NOT NULL
+
+Foreign Key: A Foreign key is column used to link two or more tables together. A table can have any number of foreign keys, can contain duplicate and NULL values.
