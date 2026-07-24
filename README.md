@@ -1,4 +1,4 @@
-# SQL
+<img width="463" height="272" alt="image" src="https://github.com/user-attachments/assets/86f02c4d-64e7-4b8c-adac-fbe81f5e8036" /># SQL
 
 SQL is a standard language for storing, manipulating and retrieving data in databases.
 
@@ -289,3 +289,32 @@ Bio Nvarchar(max)
 );
 
 <img width="800" height="999" alt="image" src="https://github.com/user-attachments/assets/4f88dba4-f82b-4851-b7de-b34aae17498b" />
+
+
+DATABASE: Database is a system that allow users to store and organise data.
+TYPES
+1. Relational Database
+2. Non-Relational Databse
+   Differences
+<img width="463" height="272" alt="image" src="https://github.com/user-attachments/assets/b1cfac9f-01b2-41d8-a575-a9a0b8de13ad" />
+
+Excel Uses: 
+- Small amount of data, 
+- One time analysis, 
+- Quick chart/grpah, 
+- Untrained person.
+
+Database Uses: 
+- Large Amount of data
+- Store real time data from websites/apps
+- Easily combine with different datasets
+- Automate steps and can re-use
+- Easy & Safe access
+- Data Integrity: Data integrity refers to the accuracy, completeness, and consistency of data throughout its entire lifecycle. It ensures your information remains fully trustworthy, uncorrupted, and unaltered whether it is being stored, transmitted, or processed. 
+- Deep Search Capabilities
+
+
+To interact with Database you can use: Mysql SQLite, SQL Server, Postgre SQL, Oracle SQL, Snowflake, Amazon Redshift
+
+Database Diagram
+<img width="342" height="256" alt="image" src="https://github.com/user-attachments/assets/16235e63-1296-4e39-993d-f342eab434ef" />
