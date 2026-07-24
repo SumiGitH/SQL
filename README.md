@@ -316,5 +316,10 @@ Database Uses:
 
 To interact with Database you can use: Mysql SQLite, SQL Server, Postgre SQL, Oracle SQL, Snowflake, Amazon Redshift
 
+
+
 Database Diagram
+
 <img width="342" height="256" alt="image" src="https://github.com/user-attachments/assets/16235e63-1296-4e39-993d-f342eab434ef" />
+
+
