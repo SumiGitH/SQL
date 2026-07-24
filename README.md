@@ -323,3 +323,18 @@ Database Diagram
 <img width="342" height="256" alt="image" src="https://github.com/user-attachments/assets/16235e63-1296-4e39-993d-f342eab434ef" />
 
 
+
+DATA TYPES
+Data types are classified into three categories
+1. String: Char, Varchar
+2. Numeric:int, float, bool
+3. Date & Time:date, datetime
+
+Coomonly used data types in SQL
+int: used for integer value
+float:used to specify a decimal point number
+bool: used to specify boolean values true & false
+char: fixed length string that can contain numbers, letters, and special characters
+varchar: variable length string that can caontain numbers, letters and special characters
+date: date format YYYY-MM-DD
+datetime: date and time combination, format is YYYY-MM-DD
