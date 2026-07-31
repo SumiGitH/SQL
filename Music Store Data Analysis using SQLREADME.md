@@ -15,6 +15,7 @@ Questions & Answers
 
    
 2. Which countries have the most Invoices?
+<img width="426" height="391" alt="image" src="https://github.com/user-attachments/assets/3019ca4c-187d-410c-b543-152de2d4506c" />
 
    
 3. What are the top 3 values of total invoice?
