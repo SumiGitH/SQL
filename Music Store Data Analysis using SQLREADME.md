@@ -19,5 +19,7 @@ Questions & Answers
 
    
 3. What are the top 3 values of total invoice?
+<img width="744" height="391" alt="image" src="https://github.com/user-attachments/assets/7da9e03f-5b6f-49cf-8fe0-8fd9050d2858" />
+
    
 6. Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most
