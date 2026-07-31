@@ -22,4 +22,9 @@ Questions & Answers
 <img width="744" height="391" alt="image" src="https://github.com/user-attachments/assets/7da9e03f-5b6f-49cf-8fe0-8fd9050d2858" />
 
    
-4. Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most
+4. Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. Write a query that returns one city that has the highest sum of invoice totals. Return both the city name & sum of all invoice total
+
+5. Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money.
+
+   
+7. 
