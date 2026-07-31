@@ -363,4 +363,9 @@ Commonly used constraints
 5. CHECK: Ensures that the values in a column satisfies a specific condition
 6. DEFAULT: Sets a deafult value for a column if no value is specified
 7. CREATE INDEX: Used to create and retrieve data from the database very quickly
+
+   
+<img width="710" height="574" alt="SCHEMA" src="https://github.com/user-attachments/assets/f1d19dcd-d564-4d28-b246-b14ee76a67a6" />
+
+
    
