@@ -11,3 +11,12 @@ SCHEMA
 Questions & Answers
 
 1. Who's the senior most employee based on job title
+<img width="743" height="333" alt="image" src="https://github.com/user-attachments/assets/e590ea43-21aa-4066-a51f-0345ffd6513a" />   
+
+   
+2. Which countries have the most Invoices?
+
+   
+3. What are the top 3 values of total invoice?
+   
+6. Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most
