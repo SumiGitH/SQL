@@ -9,7 +9,7 @@ SCHEMA
 <img width="710" height="574" alt="SCHEMA" src="https://github.com/user-attachments/assets/f1d19dcd-d564-4d28-b246-b14ee76a67a6" />  
 
 Questions & Answers
-
+SET 1
 1. Who's the senior most employee based on job title
 <img width="743" height="333" alt="image" src="https://github.com/user-attachments/assets/e590ea43-21aa-4066-a51f-0345ffd6513a" />   
 
@@ -31,4 +31,8 @@ Questions & Answers
 <img width="743" height="389" alt="image" src="https://github.com/user-attachments/assets/ac2fc2a9-d0da-49cc-b076-1ef33997e8f5" />
 
    
-7. 
+SET 2
+1. Write query to return the email, first name, last name, & Genre of all Rock Music Listeners. Return your list ordered alphabetically by email starting with A
+2. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name & total track count of the top 10 rock bands
+3. Return all the track names that have a song 
+4. 
