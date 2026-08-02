@@ -32,9 +32,18 @@ SET 1
 5. Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money.
 <img width="743" height="389" alt="image" src="https://github.com/user-attachments/assets/ac2fc2a9-d0da-49cc-b076-1ef33997e8f5" />
 
+
+
    
 SET 2
 1. Write query to return the email, first name, last name, & Genre of all Rock Music Listeners. Return your list ordered alphabetically by email starting with A
+<img width="742" height="394" alt="image" src="https://github.com/user-attachments/assets/d1ff1ee4-37d0-4a5c-a661-3d631b0534b0" />
+
+
+
+   
 2. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name & total track count of the top 10 rock bands
-3. Return all the track names that have a song 
-4. 
+
+   
+5. Return all the track names that have a song 
+6. 
