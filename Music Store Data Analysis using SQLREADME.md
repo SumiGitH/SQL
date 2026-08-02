@@ -43,7 +43,10 @@ SET 2
 
    
 2. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name & total track count of the top 10 rock bands
+<img width="745" height="394" alt="image" src="https://github.com/user-attachments/assets/562d2884-b5da-4afb-b3c1-69dbfa83822b" />
+
 
    
-5. Return all the track names that have a song 
+3. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
+   
 6. 
