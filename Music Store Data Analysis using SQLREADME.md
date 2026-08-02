@@ -48,5 +48,17 @@ SET 2
 
    
 3. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
-   
-6. 
+<img width="744" height="394" alt="image" src="https://github.com/user-attachments/assets/ba06e67b-7ba2-418c-9199-e8d7eb377a4a" />
+
+
+
+
+SET 3
+1. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent
+
+
+
+We want to find out the most popular music genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top genre. For countries where the maximum number of purchases is shared return all genres.
+
+
+Write a query that determines the customer that has
