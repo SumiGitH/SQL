@@ -23,6 +23,9 @@ Questions & Answers
 
    
 4. Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money. Write a query that returns one city that has the highest sum of invoice totals. Return both the city name & sum of all invoice total
+<img width="746" height="403" alt="image" src="https://github.com/user-attachments/assets/e8cbfb75-ca88-45e5-9e7d-68acc694efa0" />
+
+
 
 5. Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money.
 
