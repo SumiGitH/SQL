@@ -28,6 +28,7 @@ Questions & Answers
 
 
 5. Who is the best customer? The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most money.
+<img width="743" height="389" alt="image" src="https://github.com/user-attachments/assets/ac2fc2a9-d0da-49cc-b076-1ef33997e8f5" />
 
    
 7. 
