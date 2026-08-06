@@ -369,3 +369,14 @@ Commonly used constraints
 
 
    
+
+
+SQL PRACTICE QUESTIONS
+ <img width="449" height="182" alt="image" src="https://github.com/user-attachments/assets/db1bc8bb-252c-49d2-bb55-ec58fa1be817" /> 
+
+
+  <img width="489" height="113" alt="image" src="https://github.com/user-attachments/assets/56a2ae3a-496f-467a-aef6-fd356306b9bd" />
+
+
+  
+
